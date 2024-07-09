@@ -3,3 +3,6 @@ venv/
 
 # Ignore compiled Python files
 *.pyc
+
+# Ignore IntelliJ Pycharm file
+.idea/
