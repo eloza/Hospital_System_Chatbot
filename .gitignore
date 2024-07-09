@@ -4,5 +4,8 @@ venv/
 # Ignore compiled Python files
 *.pyc
 
+# Ignore python-dotenv
+.env
+
 # Ignore IntelliJ Pycharm file
 .idea/
