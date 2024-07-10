@@ -104,3 +104,4 @@ webencodings==0.5.1
 websocket-client==1.7.0
 
 python-dotenv~=1.0.1
+langchain~=0.1.0
